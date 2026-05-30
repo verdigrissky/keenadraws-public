@@ -1,71 +1,24 @@
 [
   {
-    "asset_id": "a9f49df075f9de07a3075df300124963",
-    "public_id": "1665_Girl_with_a_Pearl_Earring_fh2ig0",
-    "format": "jpg",
-    "version": 1779297406,
+    "asset_id": "61bd57fdecd44efd3076e0b31b61a175",
+    "public_id": "casino-low-res_idlygv",
+    "format": "png",
+    "version": 1780178892,
     "resource_type": "image",
     "type": "upload",
-    "created_at": "2026-05-20T17:16:46Z",
-    "bytes": 321196,
-    "width": 960,
-    "height": 1137,
-    "asset_folder": "non-furry-gallery",
-    "display_name": "1665_Girl_with_a_Pearl_Earring_fh2ig0",
-    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297406/1665_Girl_with_a_Pearl_Earring_fh2ig0.jpg",
-    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297406/1665_Girl_with_a_Pearl_Earring_fh2ig0.jpg"
-  },
-  {
-    "asset_id": "11aea388882a91e5f9f0c73d1e613f1f",
-    "public_id": "Mona_Lisa__by_Leonardo_da_Vinci__from_C2RMF_retouched_fp4qrz",
-    "format": "jpg",
-    "version": 1779297406,
-    "resource_type": "image",
-    "type": "upload",
-    "created_at": "2026-05-20T17:16:46Z",
-    "bytes": 980329,
-    "width": 1280,
-    "height": 1908,
-    "asset_folder": "non-furry-gallery",
-    "display_name": "Mona_Lisa__by_Leonardo_da_Vinci__from_C2RMF_retouched_fp4qrz",
-    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297406/Mona_Lisa__by_Leonardo_da_Vinci__from_C2RMF_retouched_fp4qrz.jpg",
-    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297406/Mona_Lisa__by_Leonardo_da_Vinci__from_C2RMF_retouched_fp4qrz.jpg"
-  },
-  {
-    "asset_id": "ff1fcd0db308881c5cbe250bfb5345e1",
-    "public_id": "Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited_omj07m",
-    "format": "jpg",
-    "version": 1779297405,
-    "resource_type": "image",
-    "type": "upload",
-    "created_at": "2026-05-20T17:16:45Z",
-    "bytes": 3638216,
-    "width": 3840,
-    "height": 2412,
-    "asset_folder": "non-furry-gallery",
-    "display_name": "Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited_omj07m",
-    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297405/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited_omj07m.jpg",
-    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297405/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited_omj07m.jpg"
-  },
-  {
-    "asset_id": "8a5405d5f6cc7ffc826bf56c3d94f84a",
-    "public_id": "Gustav_Klimt_046_oir8hr",
-    "format": "jpg",
-    "version": 1779297405,
-    "resource_type": "image",
-    "type": "upload",
-    "created_at": "2026-05-20T17:16:45Z",
-    "bytes": 2663851,
-    "width": 1415,
-    "height": 1416,
-    "asset_folder": "non-furry-gallery",
-    "display_name": "Gustav_Klimt_046_oir8hr",
-    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297405/Gustav_Klimt_046_oir8hr.jpg",
-    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297405/Gustav_Klimt_046_oir8hr.jpg"
+    "created_at": "2026-05-30T22:08:12Z",
+    "bytes": 1100100,
+    "width": 562,
+    "height": 1000,
+    "asset_folder": "furry-gallery",
+    "display_name": "casino-low-res",
+    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1780178892/casino-low-res_idlygv.png",
+    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1780178892/casino-low-res_idlygv.png",
+    "tags": []
   },
   {
     "asset_id": "4eeb5cb60b98d266ff4a29e62b7d4b71",
-    "public_id": "1773681541.keenadraws_img_9540_j4hed0",
+    "public_id": "paws-and-petals-maddy",
     "format": "png",
     "version": 1779297380,
     "resource_type": "image",
@@ -76,17 +29,28 @@
     "height": 1800,
     "asset_folder": "furry-gallery",
     "display_name": "Maddy",
-    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297380/1773681541.keenadraws_img_9540_j4hed0.png",
-    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297380/1773681541.keenadraws_img_9540_j4hed0.png",
+    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297380/paws-and-petals-maddy.png",
+    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297380/paws-and-petals-maddy.png",
+    "tags": [
+      "digital",
+      "paws and petals 2026",
+      "traditional"
+    ],
+    "context": {
+      "custom": {
+        "caption": "Maddy P&P Headshot"
+      }
+    },
     "last_updated": {
       "context_updated_at": "2026-05-20T17:27:40+00:00",
+      "public_id_updated_at": "2026-05-30T22:18:24+00:00",
       "tags_updated_at": "2026-05-20T17:24:44+00:00",
-      "updated_at": "2026-05-20T17:27:40+00:00"
+      "updated_at": "2026-05-30T22:18:24+00:00"
     }
   },
   {
     "asset_id": "8eae80171628e1f580db72d98904d371",
-    "public_id": "1773686080.keenadraws_img_9586_ntsjtz",
+    "public_id": "paws-and-petals-keena",
     "format": "png",
     "version": 1779297380,
     "resource_type": "image",
@@ -97,17 +61,28 @@
     "height": 1800,
     "asset_folder": "furry-gallery",
     "display_name": "Keena",
-    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297380/1773686080.keenadraws_img_9586_ntsjtz.png",
-    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297380/1773686080.keenadraws_img_9586_ntsjtz.png",
+    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297380/paws-and-petals-keena.png",
+    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297380/paws-and-petals-keena.png",
+    "tags": [
+      "digital",
+      "paws and petals 2026",
+      "traditional"
+    ],
+    "context": {
+      "custom": {
+        "caption": "Keena P&P Headshot"
+      }
+    },
     "last_updated": {
       "context_updated_at": "2026-05-20T17:28:49+00:00",
+      "public_id_updated_at": "2026-05-30T22:18:06+00:00",
       "tags_updated_at": "2026-05-20T17:28:12+00:00",
-      "updated_at": "2026-05-20T17:28:49+00:00"
+      "updated_at": "2026-05-30T22:18:06+00:00"
     }
   },
   {
     "asset_id": "1d06f1c8a7c1db5215a714ad2a70ff48",
-    "public_id": "1773684437.keenadraws_img_9548_tlzs4g",
+    "public_id": "paws-and-petals-acuario",
     "format": "png",
     "version": 1779297379,
     "resource_type": "image",
@@ -118,12 +93,23 @@
     "height": 1800,
     "asset_folder": "furry-gallery",
     "display_name": "Acuario",
-    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/1773684437.keenadraws_img_9548_tlzs4g.png",
-    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/1773684437.keenadraws_img_9548_tlzs4g.png",
+    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/paws-and-petals-acuario.png",
+    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/paws-and-petals-acuario.png",
+    "tags": [
+      "digital",
+      "paws and petals 2026",
+      "traditional"
+    ],
+    "context": {
+      "custom": {
+        "caption": "Acuario P&P Headshot"
+      }
+    },
     "last_updated": {
       "context_updated_at": "2026-05-20T17:27:23+00:00",
+      "public_id_updated_at": "2026-05-30T22:13:53+00:00",
       "tags_updated_at": "2026-05-20T17:24:22+00:00",
-      "updated_at": "2026-05-20T17:27:23+00:00"
+      "updated_at": "2026-05-30T22:13:53+00:00"
     }
   },
   {
@@ -141,6 +127,15 @@
     "display_name": "one year",
     "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/1767123812.keenadraws_tumblr_69c03a995eee40e8113ae0221c8b6a42_1f8576cf_2048_mta62c.jpg",
     "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/1767123812.keenadraws_tumblr_69c03a995eee40e8113ae0221c8b6a42_1f8576cf_2048_mta62c.jpg",
+    "tags": [
+      "traditional"
+    ],
+    "context": {
+      "custom": {
+        "alt": "for my stinky raccoon, who i love very much.",
+        "caption": "one year."
+      }
+    },
     "last_updated": {
       "context_updated_at": "2026-05-20T17:26:07+00:00",
       "tags_updated_at": "2026-05-20T17:28:08+00:00",
@@ -162,6 +157,17 @@
     "display_name": "happy holidays",
     "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/1765929893.keenadraws_img_9151_ixuhkp.jpg",
     "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/1765929893.keenadraws_img_9151_ixuhkp.jpg",
+    "tags": [
+      "dcfm",
+      "digital"
+    ],
+    "context": {
+      "custom": {
+        "alt": "I was lucky enough to make the art promoting DCFM's holiday market, it was a ton of fun☃️\n\nfeaturing (clockwise) King, ME!!, Milo, freehugz FreeHugz, saibree SaiBree, markthehusky Marks Barks, hollysnep hollysnep, Howie, Chili, Tuemescine, Arty, shockwavu Shockwavu, Chamomile, Fod, Hanru, Floofa, rileythefoxx Rileythefoxx, and Flapjack\n\nprints available at the link below",
+        "caption": "happy holidays from DCFM",
+        "external_link": "https://ko-fi.com/s/8b8d602f0b"
+      }
+    },
     "last_updated": {
       "context_updated_at": "2026-05-20T17:31:25+00:00",
       "tags_updated_at": "2026-05-20T17:31:09+00:00",

@@ -1,0 +1,1 @@
+import{Ma as s,Na as o,R as t,ab as a,wa as n,xb as c}from"./chunk-W6NIL64P.js";var l=class i{constructor(){t(c).setPage("links")}static \u0275fac=function(e){return new(e||i)};static \u0275cmp=n({type:i,selectors:[["kd-links-view"]],decls:2,vars:0,template:function(e,r){e&1&&(s(0,"p"),a(1,"links-view works!"),o())},encapsulation:2})};export{l as LinksView};

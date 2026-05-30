@@ -1,1 +1,0 @@
-import{La as s,Ma as o,R as t,Ya as a,sb as c,wa as n}from"./chunk-TCRDOZG2.js";var l=class i{constructor(){t(c).setPage("links")}static \u0275fac=function(e){return new(e||i)};static \u0275cmp=n({type:i,selectors:[["kd-links-view"]],decls:2,vars:0,template:function(e,r){e&1&&(s(0,"p"),a(1,"links-view works!"),o())},encapsulation:2})};export{l as LinksView};

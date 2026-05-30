@@ -1,0 +1,1 @@
+import{Ma as o,Na as a,R as i,ab as s,wa as t,xb as r}from"./chunk-W6NIL64P.js";var c=class n{constructor(){i(r).reset()}static \u0275fac=function(e){return new(e||n)};static \u0275cmp=t({type:n,selectors:[["view-landing"]],decls:2,vars:0,template:function(e,l){e&1&&(o(0,"p"),s(1,"landing-view works!"),a())},encapsulation:2})};export{c as LandingView};

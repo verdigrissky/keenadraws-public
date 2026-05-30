@@ -1,0 +1,1 @@
+import{Ma as n,Na as a,R as o,ab as s,wa as i,xb as c}from"./chunk-W6NIL64P.js";var m=class t{constructor(){o(c).setPage("about")}static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["view-about"]],decls:2,vars:0,template:function(e,p){e&1&&(n(0,"p"),s(1,"about-view works!"),a())},encapsulation:2})};export{m as AboutView};

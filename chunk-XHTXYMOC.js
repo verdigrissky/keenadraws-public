@@ -1,1 +1,0 @@
-import{La as n,Ma as a,R as o,Ya as s,sb as c,wa as i}from"./chunk-TCRDOZG2.js";var m=class t{constructor(){o(c).setPage("about")}static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["view-about"]],decls:2,vars:0,template:function(e,p){e&1&&(n(0,"p"),s(1,"about-view works!"),a())},encapsulation:2})};export{m as AboutView};

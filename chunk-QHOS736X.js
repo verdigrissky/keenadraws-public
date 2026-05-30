@@ -1,1 +1,0 @@
-import{La as o,Ma as a,R as i,Ya as s,sb as r,wa as t}from"./chunk-TCRDOZG2.js";var c=class n{constructor(){i(r).reset()}static \u0275fac=function(e){return new(e||n)};static \u0275cmp=t({type:n,selectors:[["view-landing"]],decls:2,vars:0,template:function(e,l){e&1&&(o(0,"p"),s(1,"landing-view works!"),a())},encapsulation:2})};export{c as LandingView};
