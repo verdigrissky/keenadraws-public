@@ -1,7 +1,67 @@
 [
   {
+    "asset_id": "3ec8ebcc18c715450e49db0658d0b801",
+    "public_id": "stupid-tired-cat",
+    "format": "jpg",
+    "version": 1780245102,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-05-31T16:31:42Z",
+    "bytes": 585661,
+    "width": 1920,
+    "height": 1920,
+    "asset_folder": "furry-gallery",
+    "display_name": "stupid-tired-cat",
+    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1780245102/stupid-tired-cat.jpg",
+    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1780245102/stupid-tired-cat.jpg",
+    "tags": [
+      "traditional"
+    ],
+    "context": {
+      "custom": {
+        "alt": "early mornings are a cat's worst enemy\n\na birthday gift for glowmew!",
+        "caption": "snore leopard"
+      }
+    },
+    "last_updated": {
+      "context_updated_at": "2026-05-31T16:32:24+00:00",
+      "tags_updated_at": "2026-05-31T16:32:24+00:00",
+      "updated_at": "2026-05-31T16:32:24+00:00"
+    }
+  },
+  {
+    "asset_id": "77cd471b85476825e3230a7d1a687c1d",
+    "public_id": "glow-badge",
+    "format": "jpg",
+    "version": 1780244651,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2026-05-31T16:24:11Z",
+    "bytes": 272695,
+    "width": 1333,
+    "height": 1000,
+    "asset_folder": "physical-media-gallery",
+    "display_name": "glow-badge",
+    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1780244651/glow-badge.jpg",
+    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1780244651/glow-badge.jpg",
+    "tags": [
+      "badge"
+    ],
+    "context": {
+      "custom": {
+        "alt": "Each purchase of a GLOW BADGE will give you a custom drawn and laser-cut acrylic badge, connected to a dongle and badge clip. The badge can glow 7 different colors as well as cycle through or flash. We will include some cleaning wipes and a charging cable for the dongle. It lasts about 90 minutes on full charge.",
+        "caption": "Glow Badge Examples"
+      }
+    },
+    "last_updated": {
+      "context_updated_at": "2026-05-31T16:25:11+00:00",
+      "tags_updated_at": "2026-05-31T16:25:11+00:00",
+      "updated_at": "2026-05-31T16:25:11+00:00"
+    }
+  },
+  {
     "asset_id": "61bd57fdecd44efd3076e0b31b61a175",
-    "public_id": "casino-low-res_idlygv",
+    "public_id": "casino-low-res",
     "format": "png",
     "version": 1780178892,
     "resource_type": "image",
@@ -12,9 +72,24 @@
     "height": 1000,
     "asset_folder": "furry-gallery",
     "display_name": "casino-low-res",
-    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1780178892/casino-low-res_idlygv.png",
-    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1780178892/casino-low-res_idlygv.png",
-    "tags": []
+    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1780178892/casino-low-res.png",
+    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1780178892/casino-low-res.png",
+    "tags": [
+      "digital",
+      "group"
+    ],
+    "context": {
+      "custom": {
+        "alt": "you can buy a high res copy on my commiss.io!",
+        "caption": "Casino Night"
+      }
+    },
+    "last_updated": {
+      "context_updated_at": "2026-05-31T16:31:24+00:00",
+      "public_id_updated_at": "2026-05-31T16:28:29+00:00",
+      "tags_updated_at": "2026-05-31T16:31:24+00:00",
+      "updated_at": "2026-05-31T16:31:24+00:00"
+    }
   },
   {
     "asset_id": "4eeb5cb60b98d266ff4a29e62b7d4b71",
@@ -144,7 +219,7 @@
   },
   {
     "asset_id": "dd93f0e26b3864df3852d8fb9c5457cc",
-    "public_id": "1765929893.keenadraws_img_9151_ixuhkp",
+    "public_id": "dcfm-26-holiday",
     "format": "jpg",
     "version": 1779297379,
     "resource_type": "image",
@@ -155,8 +230,8 @@
     "height": 1542,
     "asset_folder": "furry-gallery",
     "display_name": "happy holidays",
-    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/1765929893.keenadraws_img_9151_ixuhkp.jpg",
-    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/1765929893.keenadraws_img_9151_ixuhkp.jpg",
+    "url": "http://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/dcfm-26-holiday.jpg",
+    "secure_url": "https://res.cloudinary.com/dthu8gjrk/image/upload/v1779297379/dcfm-26-holiday.jpg",
     "tags": [
       "dcfm",
       "digital"
@@ -170,8 +245,9 @@
     },
     "last_updated": {
       "context_updated_at": "2026-05-20T17:31:25+00:00",
+      "public_id_updated_at": "2026-05-31T16:28:06+00:00",
       "tags_updated_at": "2026-05-20T17:31:09+00:00",
-      "updated_at": "2026-05-20T17:31:25+00:00"
+      "updated_at": "2026-05-31T16:28:06+00:00"
     }
   }
 ]

@@ -7,11 +7,11 @@
   {
     "name": "non-furry-gallery",
     "path": "non-furry-gallery",
-    "external_id": "cf232e7c2f0923954a8157b0e0843db23a"
+    "external_id": "cf232e87db897e2864e846ddb599d7bf2d"
   },
   {
-    "name": "photography-gallery",
-    "path": "photography-gallery",
-    "external_id": "cf232e87db897e2864e846ddb599d7bf2d"
+    "name": "physical-media-gallery",
+    "path": "physical-media-gallery",
+    "external_id": "cf232e7c2f0923954a8157b0e0843db23a"
   }
 ]
