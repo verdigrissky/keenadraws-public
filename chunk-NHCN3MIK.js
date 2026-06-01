@@ -1,1 +1,0 @@
-import{Cb as r,Qa as o,Ra as a,S as t,eb as s,za as i}from"./chunk-EEM6TAQQ.js";var c=class n{constructor(){t(r).reset()}static \u0275fac=function(e){return new(e||n)};static \u0275cmp=i({type:n,selectors:[["view-landing"]],decls:2,vars:0,template:function(e,d){e&1&&(o(0,"p"),s(1,"no defined json structure"),a())},encapsulation:2})};export{c as LandingView};
