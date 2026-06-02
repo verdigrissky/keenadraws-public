@@ -1,1 +1,0 @@
-import{O as r,da as t}from"./chunk-3Y67ZZKM.js";var n=class e{resource=t(null);open(o){this.resource.set(o)}close(){this.resource.set(null)}static \u0275fac=function(c){return new(c||e)};static \u0275prov=r({token:e,factory:e.\u0275fac,providedIn:"root"})};export{n as a};

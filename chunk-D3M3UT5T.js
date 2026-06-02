@@ -1,1 +1,0 @@
-import{Cb as c,Qa as n,Ra as a,S as o,eb as s,za as i}from"./chunk-3Y67ZZKM.js";var r=class t{constructor(){o(c).setPage("about")}static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["view-about"]],decls:2,vars:0,template:function(e,u){e&1&&(n(0,"p"),s(1,"no defined json structure"),a())},encapsulation:2})};export{r as AboutView};
